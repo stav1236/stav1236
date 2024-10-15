@@ -1,12 +1,12 @@
-## 🚀 About Me:
+# 🚀 About Me:
 I am a dedicated and ambitious software engineer with over 4 years of experience in software development, algorithms, system architecture, design, and technological leadership. I hold a B.Sc. in Computer Science with honors and am currently pursuing an MBA. A true technology enthusiast, I enjoy staying on the cutting edge of innovation. In my free time, I have a keen interest in psychology and sports.
 
-🌐 **Socials:**
+## 🌐 **Socials:**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stav-maor-874584249/)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@stavmaor1)
 
-💻 **Tech Stack:**
+## 💻 **Tech Stack:**
 
 ### **Languages:**
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white)
